@@ -1,5 +1,4 @@
 *.json
-*.png
 *ipynb_checkpoints/*
 output.json 
 output-large.json
